@@ -1,0 +1,14 @@
+欢迎使用sss task操作文档
+ 
+在hallucination estiamtion中，您可测试一名受试的幻听倾向
+在sss outcome中，您可看到所有被试的统计数据
+在instructions_slides和instructions中，您可以编辑instruction
+在sounds中，您可查看实验使用的声音
+在results中，您可查看和保存实验的数据
+在protocal中，您可以看到一次实验的基本操作流程
+
+
+运行experiment.py可以进入测试界面
+运行compute_plv.py可以计算plv
+运行praat可以进行录音 (16000HZ)
+
